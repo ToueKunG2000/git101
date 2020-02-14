@@ -1,2 +1,2 @@
-เพิ่มไฟล์ b.txt
+เพิ่มไฟล์ b.txt Change by feature2 Hey
 อย่าลืม save ทั้งสองไฟล์
