@@ -1,3 +1,4 @@
 this is new-1.txt by git102
 
 Prayuth
+You're Gay!
